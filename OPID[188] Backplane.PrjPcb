@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CSEUFWMD
 
 [Document2]
-DocumentPath=5V Step-down regulator.SchDoc
+DocumentPath=OPID[351] 5V Step-down regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VAIGSPRN
 
 [Document3]
-DocumentPath=3.3V Step-down regulator.SchDoc
+DocumentPath=OPID[352] 3.3V Step-down regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -113,7 +113,7 @@ OutputDefault1=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Hewlett-Packard HP LaserJet 500 color MFP M575
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
