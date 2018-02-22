@@ -56,23 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=CSEUFWMD
 
 [Document2]
-DocumentPath=OPID[351] 5V Step-down regulator.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VAIGSPRN
-
-[Document3]
 DocumentPath=OPID[352] 3.3V Step-down regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,8 +72,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YORBFTKS
 
-[Document4]
-DocumentPath=Backplane_PCB_v1.PcbDoc
+[Document3]
+DocumentPath=Backplane_PCB_v2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,14 +89,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKTWVPPA
 
-[Document5]
+[Document4]
 DocumentPath=OPID[351] 5V Step-down regulator v2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
